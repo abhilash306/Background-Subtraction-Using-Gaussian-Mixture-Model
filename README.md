@@ -1,9 +1,7 @@
 # Stauffer-Grimson-Adaptive-Background-Mixture-Model
 
-# ELL784 Introduction To Machine Learning
-
 ## Submitted By:
-- Abhilash - 2022JTM2391
+- Abhilash 
   
 ## “Background Subtraction Using Gaussian Mixture Model”
 
