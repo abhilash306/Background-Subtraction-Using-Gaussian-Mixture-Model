@@ -1,0 +1,1 @@
+# Stauffer-Grimson-Adaptive-Background-Mixture-Model
